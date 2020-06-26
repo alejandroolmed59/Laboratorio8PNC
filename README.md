@@ -1,4 +1,2 @@
 # Laboratorio-8-PNC
-Información obtenida de la clase 22 01-2019:
-
-https://drive.google.com/file/d/19iPTFCCiLKipo-c4Nj5yj6oiEye4dgPE/view?usp=sharing
+CAMBIAR RUTA EN la funcion prepararColeccion() en la clase ClienteServiceIMP linea 260 ya que mi ruta absoluta no será la misma que tu ruta absoluta.
